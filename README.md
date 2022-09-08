@@ -1,6 +1,6 @@
 ### Olá, tudo bom? Prazer, sou o Akio! 👋 <h3>
 
-- 🔭 Trabalhando como QA e Líder de Sistemas
+- 🔭 Trabalhando como QA, Líder de Sistemas e Data Analyst
 - 🧑‍🎓 Engenheiro formado pela USP
 - 📊 Aprofundando conhecimento em Data Science: SQL, Python e Git/Github
 - 😄 Pronouns: ele/dele
