@@ -59,7 +59,7 @@
 - Mindset transversal
 - Organização e resiliência
 
-## Certificações na <a href="https://cursos.alura.com.br/user/akiofmm/fullCertificate/12313a9d8d75ae66fe700d807729b359"> Alura </a>:
+## <a href="https://cursos.alura.com.br/user/akiofmm/fullCertificate/12313a9d8d75ae66fe700d807729b359"> Certificações na Alura </a>:
 - Excel VBA
 - Power BI
 - Google Data Studio
