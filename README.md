@@ -45,7 +45,6 @@
 - **Linguagens:** Javascript & Python
 - **Gestão:** Trello, Podio, Hubspot & Clickup
 - **Metodologias Agile:** Scrum & Kanban
-- **Experiência na interface:** Heroku & Rails
 - **Design:** Canva, Microsoft Power Point, Google Slides, Miro & Da Vinci Resolve (básico)
 - **Marketing Digital:** Google Analytics, Search Console, Ahrefs, Advanced Web Ranking, Screaming Frog, Google Ads, Facebook/Instagram Ads & Linkedin Ads
 
