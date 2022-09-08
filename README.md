@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando como QA e Líder de Sistemas
 - 🧑‍🎓 Engenheiro formado pela USP
-- 📊 Aprofundando conhecimento em Data Science: SQL, Python e versionamento
+- 📊 Aprofundando conhecimento em Data Science: SQL, Python e Git/Github
 - 😄 Pronouns: ele/dele
 
 <div>
