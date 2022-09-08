@@ -1,4 +1,4 @@
-### Olá, como vai você? Prazer, sou o Akio! 👋 <h3>
+### Olá, tudo bom? Prazer, sou o Akio! 👋 <h3>
 
 - 🔭 Trabalhando como QA e Líder de Sistemas
 - 🧑‍🎓 Engenheiro formado pela USP
