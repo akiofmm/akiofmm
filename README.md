@@ -5,11 +5,6 @@
 - 📊 Aprofundando conhecimento em Data Science: Python e Machine Learning
 - 😄 Pronouns: ele/dele
 
-<div>
-  <a href="https://beacons.ai/akiofmm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akiofmm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Atuação profissional:
 - **Analista de Dados/BI e Líder de Sistemas** - Humanizadas - (08/2022 - atualmente)
 - **Analista de Dados/BI** - Freelancer - (06/2022 - atualmente)
