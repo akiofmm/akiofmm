@@ -1,8 +1,8 @@
 ### Olá, tudo bom? Prazer, sou o Akio! 👋 <h3>
 
-- 🔭 Trabalhando como QA, Líder de Sistemas e Data Analyst
+- 🔭 Trabalhando como Analista de Dados/BI e Líder de Sistemas
 - 🧑‍🎓 Engenheiro formado pela USP
-- 📊 Aprofundando conhecimento em Data Science: SQL, Python e Git/Github
+- 📊 Aprofundando conhecimento em Data Science: Python e Machine Learning
 - 😄 Pronouns: ele/dele
 
 <div>
@@ -11,13 +11,13 @@
 </div>
 
 ## Atuação profissional:
-- **Workspace Lead & Quality Assurance Analyst** - Humanizadas - (08/2022 - atualmente)
-- **Data Analyst** - Freelancer - (06/2022 - atualmente)
-- **Quality Assurance Analyst** - Humanizadas - (01/2021 - 08/2022)
-- **Quality Assurance Intern** - Humanizadas - (09/2020 - 01/2021)
-- **Paid Media & SEO Strategist Intern** - (12/2019 - 09/2020)
-- **Sales Co-Ambassador** - Freelancer - (02/1019 - 04/2019)
-- **Sustainability Intern** - Banco de Tecido - (01/2019 - 03/2019)
+- **Analista de Dados/BI e Líder de Sistemas** - Humanizadas - (08/2022 - atualmente)
+- **Analista de Dados/BI** - Freelancer - (06/2022 - atualmente)
+- **Analista de Dados/BI e QA** - Humanizadas - (01/2021 - 08/2022)
+- **Estagiário de Dados/BI e QA** - Humanizadas - (09/2020 - 01/2021)
+- **Estagiário de Dados de Performance** - (12/2019 - 09/2020)
+- **Embaixador de Vendas** - Freelancer - (02/1019 - 04/2019)
+- **Estagiário de Sustentabilidade** - Banco de Tecido - (01/2019 - 03/2019)
 
 ## Hard Skills:
 <div style="display: inline_block"><br>
@@ -39,33 +39,31 @@
 
 </br>
 
-- **Dataviz:** Google Data Studio & Power BI
+- **Dataviz:** Looker & Power BI
 - **Apoio:** Excel (VBA) & Google Sheets
 - **Bancos de Dados Relacionais:** PostgreSQL
 - **Linguagens:** Javascript & Python
-- **Gestão:** Trello, Podio, Hubspot & Clickup
+- **Gestão:** Trello, Podio & Clickup
 - **Metodologias Agile:** Scrum & Kanban
-- **Design:** Canva, Microsoft Power Point, Google Slides, Miro & Da Vinci Resolve (básico)
-- **Marketing Digital:** Google Analytics, Search Console, Ahrefs, Advanced Web Ranking, Screaming Frog, Google Ads, Facebook/Instagram Ads & Linkedin Ads
-
+- **Design:** Canva, Microsoft Power Point, Google Slides & Miro
+- **Marketing Digital:** Hubspot, Google Analytics, Search Console, Ahrefs, Advanced Web Ranking, Screaming Frog, Google Ads, Meta Ads & Linkedin Ads
 
 
 ## Soft Skills:
 - Autogestão
 - Analítico
 - Comunicação síncrona/assíncrona
-- Colaboração
-- Espírito empreendedor
-- Mindset transversal
+- Mindset transversal e generalista
 - Organização e resiliência
 
 ## <a href="https://cursos.alura.com.br/user/akiofmm/fullCertificate/12313a9d8d75ae66fe700d807729b359"> Certificações na Alura </a>:
 - Excel VBA
 - Power BI
-- Google Data Studio
+- Looker
 - PostgreSQL
 - Quality Assurance
 - Javascript Básico
+- Python
 
 
 ## Contato:
